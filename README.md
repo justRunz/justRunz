@@ -1,21 +1,46 @@
-<h2 align="center">Hi 👋, welcome to my github profile<br>My name is Rui Gaspar(justRunz) and i'am passionate developer from Paris</h2>
+<div align="center">
 
-- 🎓I'm currently studding at **[Coding Factory by ESIEE Tech - Cergy](https://codingfactory.fr/)**
+# Rui Carvalho · `justRunz` 👋
 
-- 💻 Main Languages : React JS,React Native, HTML, CSS, JavaScript
+**Développeur passionné basé à Paris 🇫🇷**  
+Étudiant à [Coding Factory by ESIEE-Tech – Cergy](https://codingfactory.fr/)  
+🌍 Langues : Français 🇫🇷 · Portugais 🇵🇹 · Anglais 🇬🇧
 
-- 🗣 My main language is French and Portuguese but I also know a little English and Spanish.
+[![Profile Views](https://komarev.com/ghpvc/?username=justrunz&label=Vues%20du%20profil&color=0e75b6&style=flat)](https://github.com/justrunz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-carvalho-dev/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:ruimiguel.gcarvalho@gmail.com)
 
+</div>
 
-## 📸 My socials medias
+---
 
-- 🌐 [Instagram](https://www.instagram.com/rui.miguel_/)
-- 📝 [Linkedin](https://www.linkedin.com/in/rui-gaspar-030109215/)
-- 📫 **ruigaspar03@hotmail.com**
-- 👀 ![](https://komarev.com/ghpvc/?username=justrunnz&label=Profile%20views&color=0e75b6&style=flat)
+## 🛠️ Stack technique
 
-## 📊 My stats
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-[![GitHub stat's](https://github-readme-stats.vercel.app/api?username=justRunnz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justRunnz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justrunz&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justrunz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  <i>« Code with passion, build with purpose. »</i>
+</div>
