@@ -67,13 +67,13 @@ Application mobile de santé avec un chat IA pour l'orientation et la détection
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justRunz&theme=nord_dark" width="100%" alt="Profil" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justRunz&theme=nord_dark" width="75%" alt="Profil" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justRunz&theme=nord_dark" width="49%" alt="Langages par repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justRunz&theme=nord_dark" width="49%" alt="Langages par commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justRunz&theme=nord_dark" width="37%" alt="Langages par repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justRunz&theme=nord_dark" width="37%" alt="Langages par commit" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justRunz&theme=nord_dark" width="49%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justRunz&theme=nord_dark&timeZone=Europe/Paris" width="49%" alt="Heures productives" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justRunz&theme=nord_dark" width="37%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justRunz&theme=nord_dark&timeZone=Europe/Paris" width="37%" alt="Heures productives" />
 
 </div>
 
