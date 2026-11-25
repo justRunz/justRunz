@@ -12,8 +12,6 @@ Formé à la [Coding Factory by ESIEE-Tech](https://codingfactory.fr/) (Cergy).
 
 </div>
 
----
-
 ## 🌍 Langues
 
 | | | |
@@ -21,8 +19,6 @@ Formé à la [Coding Factory by ESIEE-Tech](https://codingfactory.fr/) (Cergy).
 | 🇫🇷 | Français | `courant` |
 | 🇵🇹 | Portugais | `natif` |
 | 🇬🇧 | Anglais | `professionnel` |
-
----
 
 ## 🚀 Projets à la une
 
@@ -44,8 +40,6 @@ Application mobile de santé avec un chat IA pour l'orientation et la détection
 | [**As Delícias da Célia**](https://github.com/justRunz/delicias-da-celia) · [🌐 site](https://asdelicias-dacelia.com) | Site vitrine d'une pâtisserie maison à Santarém (Portugal), en production | Astro |
 | [**SRF Cryo Recovery**](https://github.com/justRunz/srf-santarem) · [🌐 site](https://www.srf-cryorecovery.com/) | Site d'un centre de cryothérapie et récupération, en production | Astro |
 | [**Mynt**](https://github.com/justRunz/mynt) | PWA de gestion de collection de pièces euro : sait où chaque pièce est rangée (classeur, page, emplacement) | React · Express · PostgreSQL · Docker |
-
----
 
 ## 🛠️ Stack
 
@@ -69,8 +63,6 @@ Application mobile de santé avec un chat IA pour l'orientation et la détection
 
 </div>
 
----
-
 ## 📊 Stats
 
 <div align="center">
@@ -84,8 +76,6 @@ Application mobile de santé avec un chat IA pour l'orientation et la détection
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justRunz&theme=nord_dark&timeZone=Europe/Paris" width="49%" alt="Heures productives" />
 
 </div>
-
----
 
 <div align="center">
 
