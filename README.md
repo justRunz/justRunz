@@ -12,7 +12,7 @@ Formé à la [Coding Factory by ESIEE-Tech](https://codingfactory.fr/) (Cergy).
 
 </div>
 
-### 🌍 Langues
+## 🌍 Langues
 
 | | | |
 |---|---|---|
@@ -20,9 +20,9 @@ Formé à la [Coding Factory by ESIEE-Tech](https://codingfactory.fr/) (Cergy).
 | 🇵🇹 | Portugais | `natif` |
 | 🇬🇧 | Anglais | `professionnel` |
 
-### 🚀 Projets à la une
+## 🚀 Projets à la une
 
-#### 🩺 TakeCare AI · projet entrepreneurial
+### 🩺 TakeCare AI · projet entrepreneurial
 [app](https://github.com/TakeCareOrg/takecare-app) · [backend](https://github.com/TakeCareOrg/takecare-backend)
 
 Application mobile de santé avec un chat IA pour l'orientation et la détection de symptômes, **testée par plus d'une centaine d'utilisateurs**.
@@ -33,7 +33,7 @@ Application mobile de santé avec un chat IA pour l'orientation et la détection
 
 `React Native` `Expo` `Node.js` `Express` `MongoDB` `HashiCorp Vault` `Docker` `NGINX` `Cloudflare`
 
-#### Autres projets
+### Autres projets
 
 | Projet | Description | Stack |
 |---|---|---|
@@ -41,7 +41,7 @@ Application mobile de santé avec un chat IA pour l'orientation et la détection
 | [**SRF Cryo Recovery**](https://github.com/justRunz/srf-santarem) · [🌐 site](https://www.srf-cryorecovery.com/) | Site d'un centre de cryothérapie et récupération, en production | Astro |
 | [**Mynt**](https://github.com/justRunz/mynt) | PWA de gestion de collection de pièces euro : sait où chaque pièce est rangée (classeur, page, emplacement) | React · Express · PostgreSQL · Docker |
 
-### 🛠️ Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Application mobile de santé avec un chat IA pour l'orientation et la détection
 
 </div>
 
-### 📊 Stats
+## 📊 Stats
 
 <div align="center">
 
