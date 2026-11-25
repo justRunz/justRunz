@@ -66,15 +66,13 @@ Application mobile de santé avec un chat IA pour l'orientation et la détection
 ## 📊 Stats
 
 <div align="center">
-
+<!-- profil 700x200, autres cartes 340x200 : 60% / 29% gardent la même hauteur -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justRunz&theme=nord_dark" width="60%" alt="Profil" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justRunz&theme=nord_dark" width="30%" alt="Langages par repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justRunz&theme=nord_dark" width="30%" alt="Langages par commit" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justRunz&theme=nord_dark" width="30%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justRunz&theme=nord_dark&timeZone=Europe/Paris" width="30%" alt="Heures productives" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justRunz&theme=nord_dark" width="29%" alt="Langages par repo" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justRunz&theme=nord_dark" width="29.6%" alt="Langages par commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justRunz&theme=nord_dark" width="29.6%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justRunz&theme=nord_dark&timeZone=Europe/Paris" width="29.6%" alt="Heures productives" />
 </div>
 
 <div align="center">
